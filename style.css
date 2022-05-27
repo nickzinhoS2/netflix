@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    background:#090a11
+}
+
+.casa{
+    background: #090a11;
+    margin: 0;
+    opacity: 0.95;
+    position: fixed;
+    width: 100%;
+}
+
+.casa-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5% 0 3%;
+}
+
+.logo-1{
+    padding:10px ;
+    width: 6%;
+    height: 6%;
+}
+
+.lista-1{
+    display: flex;
+    list-style-type: none;
+}
+
+.listas-2{
+    padding: 30px;
+    color: #c5c6c7;
+    font-size: 19px;
+    justify-content: space-between;
+}
+
+.busca{
+    margin-top: 30px;
+    height: 50px;
+}
+
+.busca input{
+    background-image:url(lupa.png);
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-position: 96%;
+    height: 25px;
+}
+
+.img-1{
+    width: 100%;
+}
