@@ -1,0 +1,37 @@
+.casa{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #090a11;
+    margin: 0;
+    opacity: 0.98;
+    width: 100%;
+
+}
+
+.casa-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5% 0 3%;
+}
+
+body{
+    margin: 0;
+}
+
+.casa{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #090a11;
+    margin: 0;
+    opacity: 0.98;
+    width: 100%;
+
+}
+
+.casa-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5% 0 3%;
+}

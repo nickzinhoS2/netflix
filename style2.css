@@ -1,0 +1,49 @@
+body{
+    background:#090a11;
+    margin: 0;
+}
+
+a{
+    color: #b22222;
+    cursor: grab;
+}
+
+.casa-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5% 0 3%;
+    text-align: center;
+}
+
+.logo-1{
+    padding:10px ;
+    width: 6%;
+    height: 6%;
+    margin: 0 0 0 30em;
+}
+
+.nome-pagina{
+    color: #c5c6c7; 
+    margin: 2rem 0rem 0 -76rem;
+    font-size: 36px;
+}
+
+.sobre{
+    margin: 50px;
+}
+
+.cor{
+    color: #b22222;
+}
+.titulo{
+    text-align: center;
+    color: #c5c6c7;
+}
+
+.paragrafo{
+    color: #c5c6c7;
+    text-align: justify;
+    font-size: large;
+}
+
+
