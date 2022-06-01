@@ -1,6 +1,22 @@
+body::-webkit-scrollbar {
+    width: 13px;
+            
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #090a11;       
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color:#c5c6c7;   
+    border-radius: 8px;       
+    border: 3px solid #b22222;  
+  }
+
+
 body{
     margin: 0;
-    background:#090a11
+    background: linear-gradient(#000,#242935, #000)
 }
 
 .casa{
@@ -56,8 +72,8 @@ a{
 }
 
 .busca input{
-    background-image:url(lupa.png);
-    background-size: 10%;
+    background-image:url(lupinha.png);
+    background-size: 8%;
     background-repeat: no-repeat;
     background-position: 96%;
     height: 25px;

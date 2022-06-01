@@ -1,13 +1,6 @@
-.casa{
-    position: fixed;
-    top: 0;
-    left: 0;
-    background: #090a11;
+body{
+    background-color: #090a11;
     margin: 0;
-    opacity: 0.98;
-    width: 100%;
-  
-
 }
 
 a{
@@ -19,18 +12,63 @@ a{
     display: flex;
     justify-content: space-between;
     margin: 0 5% 0 3%;
+    text-align: center;
 }
 
 .logo-1{
     padding:10px ;
     width: 6%;
     height: 6%;
-    margin:  0px 630px 90px 0;
+    margin: 0 0 0 30em;
 }
 
 .nome-pagina{
     color: #c5c6c7; 
-    margin:30px 640px 0 0;
+    margin: 2rem 0rem 0 -76rem;
     font-size: 36px;
 }
 
+.cor{
+    color: #b22222;
+}
+
+.formulario{
+   margin: 40px 0 0 570px;
+}
+
+form{
+    margin: 30px;
+    color: #c5c6c7;
+}
+
+form input{
+    display: block;
+    color: #090a11;
+    margin: 5px 0 0 1px;
+    font-size: 17px;
+}
+
+form label{
+    display: block;
+    color: #c5c6c7;
+    margin: 5px 0 0 1px;
+    font-size: 17px;
+}
+
+textarea{
+    margin: 0 0 0 1px;
+}
+
+.enviar{
+    color: #c5c6c7;
+    border-radius: 7px;
+    background: #b22222;
+    font-size: 15px;
+    cursor: grab;
+    padding: 5px 0;
+    transition: 0s;
+}
+
+.enviar:hover{
+    color: black;
+}
